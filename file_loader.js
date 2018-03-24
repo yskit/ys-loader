@@ -46,7 +46,7 @@ module.exports = class FileLoader {
         return obj;
       }, target);
     }
-    return target;
+    return items.length;
   }
 
   parse() {

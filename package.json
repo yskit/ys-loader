@@ -1,6 +1,6 @@
 {
   "name": "ys-loader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ys support utils for loader",
   "main": "index.js",
   "repository": {
